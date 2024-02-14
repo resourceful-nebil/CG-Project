@@ -59,8 +59,6 @@ The project is deployed and accessible at [https://cg-group-project.netlify.app]
 
 Contributions to this project are welcome. If you find any issues or want to add new features, feel free to open a pull request.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more information.
 
 <img width="600" alt="Screenshot 2024-02-11 155725" src="https://github.com/nesrucodex/Earth-and-Moon-Stimulation-in-webgl2/assets/155378885/8c129f64-e8d8-486b-aed3-8f3dddf44aa2">
