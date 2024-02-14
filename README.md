@@ -1,6 +1,4 @@
 
-
-```markdown
 # Solar System Simulation
 
 This project is a solar system simulation implemented using the Three.js library. It displays a 3D representation of the solar system, including the sun and the planets, with realistic textures and animations.
@@ -64,7 +62,5 @@ Contributions to this project are welcome. If you find any issues or want to add
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more information.
-```
 
-Save the above content in a file with the extension `.md`, such as `README.md`, to create a Markdown file. You can view and render the Markdown file using various Markdown editors or viewers.
 <img width="600" alt="Screenshot 2024-02-11 155725" src="https://github.com/nesrucodex/Earth-and-Moon-Stimulation-in-webgl2/assets/155378885/8c129f64-e8d8-486b-aed3-8f3dddf44aa2">
